@@ -1,0 +1,7 @@
+{
+    "api_key": "",
+    "voice_id": "",
+    "source_field": "",
+    "audio_field": "",
+    "skip_if_audio_exists": true
+}
