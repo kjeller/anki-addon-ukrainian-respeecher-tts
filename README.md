@@ -7,7 +7,7 @@ An Anki add-on that generates Ukrainian TTS audio for your flashcards using the 
 - Anki 2.1.45 or later
 - A [Respeecher API key](https://respeecher.com)
 
-## Installation
+## Build
 
 1. Run `./build.sh` to produce `ukrainian_audio_generator.ankiaddon`.
 2. In Anki: **Tools › Add-ons › Install from file…** and select the `.ankiaddon` file.
